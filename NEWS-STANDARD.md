@@ -1,20 +1,24 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-03 at 21:17 +07***
+*Last updated: **2025-11-03 at 22:17 +07***
 
 ---
 
 ## Thông tin môn học
 
+• **03/11/2025**: [Nữ sinh Khoa học Công nghệ – Lê Nguyễn Phương Thùy: Từ quán net quê nhà đến hành trình đưa AI ‘thấu cảm’ vào y tế](https://hcmus.edu.vn/nu-sinh-khoa-hoc-cong-nghe-le-nguyen-phuong-thuy-tu-quan-net-que-nha-den-hanh-trinh-dua-ai-thau-cam-vao-y-te/)
+
 • **29/10/2025**: [Thông báo nhận chứng chỉ Ứng dụng Công nghệ thông tin đối với Khóa 2024 và 2025](https://hcmus.edu.vn/thong-bao-nhan-chung-chi-ung-dung-cong-nghe-thong-tin-doi-voi-khoa-2024-va-2025/)
 
 ## Cử nhân tài năng
 
+• **03/11/2025**: [Nữ sinh Khoa học Công nghệ – Lê Nguyễn Phương Thùy: Từ quán net quê nhà đến hành trình đưa AI ‘thấu cảm’ vào y tế](https://hcmus.edu.vn/nu-sinh-khoa-hoc-cong-nghe-le-nguyen-phuong-thuy-tu-quan-net-que-nha-den-hanh-trinh-dua-ai-thau-cam-vao-y-te/)
+
 • **29/10/2025**: [Thông báo nhận chứng chỉ Ứng dụng Công nghệ thông tin đối với Khóa 2024 và 2025](https://hcmus.edu.vn/thong-bao-nhan-chung-chi-ung-dung-cong-nghe-thong-tin-doi-voi-khoa-2024-va-2025/)
 
-• **28/10/2025**: [Học bổng LOTTE năm 2025](https://hcmus.edu.vn/hoc-bong-lotte-nam-2025/)
-
 ## Trí tuệ nhân tạo
+
+• **03/11/2025**: [Nữ sinh Khoa học Công nghệ – Lê Nguyễn Phương Thùy: Từ quán net quê nhà đến hành trình đưa AI ‘thấu cảm’ vào y tế](https://hcmus.edu.vn/nu-sinh-khoa-hoc-cong-nghe-le-nguyen-phuong-thuy-tu-quan-net-que-nha-den-hanh-trinh-dua-ai-thau-cam-vao-y-te/)
 
 • **31/10/2025**: [Đánh giá nghiệm thu cấp cơ sở đề tài nghiên cứu cấp quốc gia về “Nghiên cứu tạo ống ghép mạch máu đường kính nhỏ”](https://hcmus.edu.vn/danh-gia-nghiem-thu-cap-co-so-de-tai-nghien-cuu-cap-quoc-gia-ve-nghien-cuu-tao-ong-ghep-mach-mau-duong-kinh-nho/)
 
@@ -27,6 +31,8 @@
 • **29/10/2025**: [Thông báo nộp hồ sơ xét hoàn tất chương trình đào tạo trình độ đại học hệ chính quy các chương trình – đợt tháng 12 năm 2025](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-dot-thang-12-nam-2025/)
 
 ## Chuỗi môn học
+
+• **03/11/2025**: [Nữ sinh Khoa học Công nghệ – Lê Nguyễn Phương Thùy: Từ quán net quê nhà đến hành trình đưa AI ‘thấu cảm’ vào y tế](https://hcmus.edu.vn/nu-sinh-khoa-hoc-cong-nghe-le-nguyen-phuong-thuy-tu-quan-net-que-nha-den-hanh-trinh-dua-ai-thau-cam-vao-y-te/)
 
 • **29/10/2025**: [Thông báo nhận chứng chỉ Ứng dụng Công nghệ thông tin đối với Khóa 2024 và 2025](https://hcmus.edu.vn/thong-bao-nhan-chung-chi-ung-dung-cong-nghe-thong-tin-doi-voi-khoa-2024-va-2025/)
 
