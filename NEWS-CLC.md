@@ -1,10 +1,14 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-03 at 14:17 +07***
+*Last updated: **2025-11-03 at 15:23 +07***
 
 ---
 
 ## Chất lượng cao (CLC)
+
+• **03/11/2025**: [Nữ sinh Khoa học Công nghệ – Lê Nguyễn Phương Thùy: Từ quán net quê nhà đến hành trình đưa AI ‘thấu cảm’ vào y tế](https://hcmus.edu.vn/nu-sinh-khoa-hoc-cong-nghe-le-nguyen-phuong-thuy-tu-quan-net-que-nha-den-hanh-trinh-dua-ai-thau-cam-vao-y-te/)
+
+• **30/10/2025**: [Thúc đẩy hợp tác quốc tế giữa Trường Đại học Khoa học tự nhiên, ĐHQG-HCM và Đại học Nantes (Pháp)](https://hcmus.edu.vn/thuc-day-hop-tac-quoc-te-giua-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-va-dai-hoc-nantes-phap/)
 
 • **29/10/2025**: [Thông báo nhận chứng chỉ Ứng dụng Công nghệ thông tin đối với Khóa 2024 và 2025](https://hcmus.edu.vn/thong-bao-nhan-chung-chi-ung-dung-cong-nghe-thong-tin-doi-voi-khoa-2024-va-2025/)
 
@@ -13,8 +17,6 @@
 • **28/10/2025**: [Thông báo Học bổng Nâng Bước Thủ Khoa 2025](https://hcmus.edu.vn/thong-bao-hoc-bong-nang-buoc-thu-khoa-2025/)
 
 • **27/10/2025**: [Tăng cường giáo dục y tế cộng đồng qua tập huấn phòng ngừa đột quỵ](https://hcmus.edu.vn/chuong-trinh-tap-huan-chuyen-de-nhan-dien-va-xu-tri-benh-nhan-dot-quy-tai-cong-dong/)
-
-• **24/10/2025**: [Trường Đại học Khoa học tự nhiên đón tiếp đoàn Đại học Quốc gia Chung Hsing (Đài Loan)](https://hcmus.edu.vn/truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-don-tiep-doan-dai-hoc-quoc-gia-chung-hsing-dai-loan/)
 
 ## Student Information
 
