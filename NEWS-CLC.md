@@ -1,12 +1,14 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-03 at 18:14 +07***
+*Last updated: **2025-11-03 at 19:35 +07***
 
 ---
 
 ## Chất lượng cao (CLC)
 
 • **03/11/2025**: [Nữ sinh Khoa học Công nghệ – Lê Nguyễn Phương Thùy: Từ quán net quê nhà đến hành trình đưa AI ‘thấu cảm’ vào y tế](https://hcmus.edu.vn/nu-sinh-khoa-hoc-cong-nghe-le-nguyen-phuong-thuy-tu-quan-net-que-nha-den-hanh-trinh-dua-ai-thau-cam-vao-y-te/)
+
+• **31/10/2025**: [Đánh giá nghiệm thu cấp cơ sở đề tài nghiên cứu cấp quốc gia về “Nghiên cứu tạo ống ghép mạch máu đường kính nhỏ”](https://hcmus.edu.vn/danh-gia-nghiem-thu-cap-co-so-de-tai-nghien-cuu-cap-quoc-gia-ve-nghien-cuu-tao-ong-ghep-mach-mau-duong-kinh-nho/)
 
 • **30/10/2025**: [Trường Đại học Khoa học tự nhiên, ĐHQG-HCM tiếp và làm việc với Công ty TNHH Dịch vụ Thử không phá huỷ QIS](https://hcmus.edu.vn/truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-tiep-va-lam-viec-voi-cong-ty-tnhh-dich-vu-thu-khong-pha-huy-qis/)
 
