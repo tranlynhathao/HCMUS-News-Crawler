@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-04 at 06:15 +07***
+*Last updated: **2025-11-04 at 08:15 +07***
 
 ---
 
@@ -27,8 +27,6 @@
 • **30/10/2025**: [Thúc đẩy hợp tác quốc tế giữa Trường Đại học Khoa học tự nhiên, ĐHQG-HCM và Đại học Nantes (Pháp)](https://hcmus.edu.vn/thuc-day-hop-tac-quoc-te-giua-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-va-dai-hoc-nantes-phap/)
 
 • **29/10/2025**: [Thông báo nhận chứng chỉ Ứng dụng Công nghệ thông tin đối với Khóa 2024 và 2025](https://hcmus.edu.vn/thong-bao-nhan-chung-chi-ung-dung-cong-nghe-thong-tin-doi-voi-khoa-2024-va-2025/)
-
-• **29/10/2025**: [Thông báo nộp hồ sơ xét hoàn tất chương trình đào tạo trình độ đại học hệ chính quy các chương trình – đợt tháng 12 năm 2025](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-dot-thang-12-nam-2025/)
 
 ## Chuỗi môn học
 
