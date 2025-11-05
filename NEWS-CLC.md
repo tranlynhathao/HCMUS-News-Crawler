@@ -1,18 +1,20 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-05 at 11:20 +07***
+*Last updated: **2025-11-05 at 12:17 +07***
 
 ---
 
 ## Chất lượng cao (CLC)
 
+• **05/11/2025**: [THÔNG BÁO THƯỜNG CÔNG BỐ QUỐC TẾ TẠI ĐHQG-HCM NĂM 2025](https://hcmus.edu.vn/thong-bao-thuong-cong-bo-quoc-te-tai-dhqg-hcm-nam-2025/)
+
 • **04/11/2025**: [Thông báo thay đổi phòng học tại cơ sở 2 các môn Kinh tế chính trị, Lịch sử Đảng – áp dụng từ 01/12/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-co-so-2-cac-mon-kinh-te-chinh-tri-lich-su-dang-ap-dung-tu-01-12-2025/)
 
 • **03/11/2025**: [Nữ sinh Khoa học Công nghệ – Lê Nguyễn Phương Thùy: Từ quán net quê nhà đến hành trình đưa AI ‘thấu cảm’ vào y tế](https://hcmus.edu.vn/nu-sinh-khoa-hoc-cong-nghe-le-nguyen-phuong-thuy-tu-quan-net-que-nha-den-hanh-trinh-dua-ai-thau-cam-vao-y-te/)
 
-• **30/10/2025**: [Thúc đẩy hợp tác quốc tế giữa Trường Đại học Khoa học tự nhiên, ĐHQG-HCM và Đại học Nantes (Pháp)](https://hcmus.edu.vn/thuc-day-hop-tac-quoc-te-giua-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-va-dai-hoc-nantes-phap/)
-
 ## Student Information
+
+• **05/11/2025**: [THÔNG BÁO THƯỜNG CÔNG BỐ QUỐC TẾ TẠI ĐHQG-HCM NĂM 2025](https://hcmus.edu.vn/thong-bao-thuong-cong-bo-quoc-te-tai-dhqg-hcm-nam-2025/)
 
 • **04/11/2025**: [Thông báo thay đổi phòng học tại cơ sở 2 các môn Kinh tế chính trị, Lịch sử Đảng – áp dụng từ 01/12/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-co-so-2-cac-mon-kinh-te-chinh-tri-lich-su-dang-ap-dung-tu-01-12-2025/)
 
@@ -31,8 +33,6 @@
 • **27/10/2025**: [Thông báo Tổ chức hoạt động Workshop “Tâm bất biến giữa dòng đời vạn biến”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-tam-bat-bien-giua-dong-doi-van-bien/)
 
 • **24/10/2025**: [Thông báo tuyển sinh đại học ngành Công nghệ thông tin – hệ đào tạo từ xa năm 2025 đợt 2](https://hcmus.edu.vn/thong-bao-tuyen-sinh-dai-hoc-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-nam-2025-dot-2/)
-
-• **23/10/2025**: [Thông báo về chương trình “Học bổng Future VPBanker 2025”](https://hcmus.edu.vn/thong-bao-ve-chuong-trinh-hoc-bong-future-vpbanker-2025/)
 
 ## Exam Announcements
 
