@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-05 at 16:18 +07***
+*Last updated: **2025-11-05 at 17:19 +07***
 
 ---
 
@@ -22,6 +22,8 @@
 
 ## Trí tuệ nhân tạo
 
+• **05/11/2025**: [Mời khảo sát và báo giá Sửa chữa và cung cấp trang thiết bị cho các Khoa và Phòng thí nghiệm tại hai cơ sở Đông Hòa và Nguyễn Văn Cừ.](https://hcmus.edu.vn/moi-khao-sat-va-bao-gia-sua-chua-va-cung-cap-trang-thiet-bi-cho-cac-khoa-va-phong-thi-nghiem-tai-hai-co-so-dong-hoa-va-nguyen-van-cu/)
+
 • **05/11/2025**: [THÔNG BÁO THƯỜNG CÔNG BỐ QUỐC TẾ TẠI ĐHQG-HCM NĂM 2025](https://hcmus.edu.vn/thong-bao-thuong-cong-bo-quoc-te-tai-dhqg-hcm-nam-2025/)
 
 • **04/11/2025**: [Thông báo thay đổi phòng học tại cơ sở 2 các môn Kinh tế chính trị, Lịch sử Đảng – áp dụng từ 01/12/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-co-so-2-cac-mon-kinh-te-chinh-tri-lich-su-dang-ap-dung-tu-01-12-2025/)
@@ -29,8 +31,6 @@
 • **04/11/2025**: [Nữ sinh Khoa học Công nghệ Việt Nam – Võ Ngọc Minh Anh: Hành trình “trả lời bằng thành quả” và khát vọng AI “chạm” người dùng](https://hcmus.edu.vn/60560-2/)
 
 • **03/11/2025**: [Nữ sinh Khoa học Công nghệ – Lê Nguyễn Phương Thùy: Từ quán net quê nhà đến hành trình đưa AI ‘thấu cảm’ vào y tế](https://hcmus.edu.vn/nu-sinh-khoa-hoc-cong-nghe-le-nguyen-phuong-thuy-tu-quan-net-que-nha-den-hanh-trinh-dua-ai-thau-cam-vao-y-te/)
-
-• **31/10/2025**: [Đánh giá nghiệm thu cấp cơ sở đề tài nghiên cứu cấp quốc gia về “Nghiên cứu tạo ống ghép mạch máu đường kính nhỏ”](https://hcmus.edu.vn/danh-gia-nghiem-thu-cap-co-so-de-tai-nghien-cuu-cap-quoc-gia-ve-nghien-cuu-tao-ong-ghep-mach-mau-duong-kinh-nho/)
 
 ## Chuỗi môn học
 
