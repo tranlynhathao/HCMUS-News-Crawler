@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-05 at 17:19 +07***
+*Last updated: **2025-11-05 at 18:15 +07***
 
 ---
 
@@ -10,15 +10,11 @@
 
 • **04/11/2025**: [Nữ sinh Khoa học Công nghệ Việt Nam – Võ Ngọc Minh Anh: Hành trình “trả lời bằng thành quả” và khát vọng AI “chạm” người dùng](https://hcmus.edu.vn/60560-2/)
 
-• **03/11/2025**: [Nữ sinh Khoa học Công nghệ – Lê Nguyễn Phương Thùy: Từ quán net quê nhà đến hành trình đưa AI ‘thấu cảm’ vào y tế](https://hcmus.edu.vn/nu-sinh-khoa-hoc-cong-nghe-le-nguyen-phuong-thuy-tu-quan-net-que-nha-den-hanh-trinh-dua-ai-thau-cam-vao-y-te/)
-
 ## Cử nhân tài năng
 
 • **04/11/2025**: [Thông báo thay đổi phòng học tại cơ sở 2 các môn Kinh tế chính trị, Lịch sử Đảng – áp dụng từ 01/12/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-co-so-2-cac-mon-kinh-te-chinh-tri-lich-su-dang-ap-dung-tu-01-12-2025/)
 
 • **04/11/2025**: [Nữ sinh Khoa học Công nghệ Việt Nam – Võ Ngọc Minh Anh: Hành trình “trả lời bằng thành quả” và khát vọng AI “chạm” người dùng](https://hcmus.edu.vn/60560-2/)
-
-• **03/11/2025**: [Nữ sinh Khoa học Công nghệ – Lê Nguyễn Phương Thùy: Từ quán net quê nhà đến hành trình đưa AI ‘thấu cảm’ vào y tế](https://hcmus.edu.vn/nu-sinh-khoa-hoc-cong-nghe-le-nguyen-phuong-thuy-tu-quan-net-que-nha-den-hanh-trinh-dua-ai-thau-cam-vao-y-te/)
 
 ## Trí tuệ nhân tạo
 
@@ -30,15 +26,11 @@
 
 • **04/11/2025**: [Nữ sinh Khoa học Công nghệ Việt Nam – Võ Ngọc Minh Anh: Hành trình “trả lời bằng thành quả” và khát vọng AI “chạm” người dùng](https://hcmus.edu.vn/60560-2/)
 
-• **03/11/2025**: [Nữ sinh Khoa học Công nghệ – Lê Nguyễn Phương Thùy: Từ quán net quê nhà đến hành trình đưa AI ‘thấu cảm’ vào y tế](https://hcmus.edu.vn/nu-sinh-khoa-hoc-cong-nghe-le-nguyen-phuong-thuy-tu-quan-net-que-nha-den-hanh-trinh-dua-ai-thau-cam-vao-y-te/)
-
 ## Chuỗi môn học
 
 • **04/11/2025**: [Thông báo thay đổi phòng học tại cơ sở 2 các môn Kinh tế chính trị, Lịch sử Đảng – áp dụng từ 01/12/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-co-so-2-cac-mon-kinh-te-chinh-tri-lich-su-dang-ap-dung-tu-01-12-2025/)
 
 • **04/11/2025**: [Nữ sinh Khoa học Công nghệ Việt Nam – Võ Ngọc Minh Anh: Hành trình “trả lời bằng thành quả” và khát vọng AI “chạm” người dùng](https://hcmus.edu.vn/60560-2/)
-
-• **03/11/2025**: [Nữ sinh Khoa học Công nghệ – Lê Nguyễn Phương Thùy: Từ quán net quê nhà đến hành trình đưa AI ‘thấu cảm’ vào y tế](https://hcmus.edu.vn/nu-sinh-khoa-hoc-cong-nghe-le-nguyen-phuong-thuy-tu-quan-net-que-nha-den-hanh-trinh-dua-ai-thau-cam-vao-y-te/)
 
 ## Student Information
 
