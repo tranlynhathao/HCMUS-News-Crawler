@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-06 at 13:25 +07***
+*Last updated: **2025-11-06 at 14:16 +07***
 
 ---
 
@@ -21,6 +21,8 @@
 • **04/11/2025**: [Nữ sinh Khoa học Công nghệ Việt Nam – Võ Ngọc Minh Anh: Hành trình “trả lời bằng thành quả” và khát vọng AI “chạm” người dùng](https://hcmus.edu.vn/60560-2/)
 
 ## Trí tuệ nhân tạo
+
+• **06/11/2025**: [CÔNG KHAI THỰC HIỆN DỰ TOÁN NGÂN SÁCH 6 THÁNG VÀ 9 THÁNG ĐẦU NĂM 2025](https://hcmus.edu.vn/cong-khai-thuc-hien-du-toan-ngan-sach-6-thang-va-9-thang-dau-nam-2025/)
 
 • **05/11/2025**: [Mời khảo sát và báo giá Sửa chữa và cung cấp trang thiết bị cho các Khoa và Phòng thí nghiệm tại hai cơ sở Đông Hòa và Nguyễn Văn Cừ.](https://hcmus.edu.vn/moi-khao-sat-va-bao-gia-sua-chua-va-cung-cap-trang-thiet-bi-cho-cac-khoa-va-phong-thi-nghiem-tai-hai-co-so-dong-hoa-va-nguyen-van-cu/)
 
