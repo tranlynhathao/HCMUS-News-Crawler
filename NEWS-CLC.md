@@ -1,10 +1,12 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-06 at 10:48 +07***
+*Last updated: **2025-11-06 at 11:23 +07***
 
 ---
 
 ## Chất lượng cao (CLC)
+
+• **06/11/2025**: [[THÔNG BÁO] Chương trình học bổng Jensen Huang năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-jensen-huang-nam-2025/)
 
 • **05/11/2025**: [THÔNG BÁO THƯỜNG CÔNG BỐ QUỐC TẾ TẠI ĐHQG-HCM NĂM 2025](https://hcmus.edu.vn/thong-bao-thuong-cong-bo-quoc-te-tai-dhqg-hcm-nam-2025/)
 
@@ -13,6 +15,8 @@
 • **04/11/2025**: [Nữ sinh Khoa học Công nghệ Việt Nam – Võ Ngọc Minh Anh: Hành trình “trả lời bằng thành quả” và khát vọng AI “chạm” người dùng](https://hcmus.edu.vn/60560-2/)
 
 ## Student Information
+
+• **06/11/2025**: [[THÔNG BÁO] Chương trình học bổng Jensen Huang năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-jensen-huang-nam-2025/)
 
 • **05/11/2025**: [THÔNG BÁO THƯỜNG CÔNG BỐ QUỐC TẾ TẠI ĐHQG-HCM NĂM 2025](https://hcmus.edu.vn/thong-bao-thuong-cong-bo-quoc-te-tai-dhqg-hcm-nam-2025/)
 
@@ -31,8 +35,6 @@
 • **28/10/2025**: [Thông báo Học bổng Nâng Bước Thủ Khoa 2025](https://hcmus.edu.vn/thong-bao-hoc-bong-nang-buoc-thu-khoa-2025/)
 
 • **27/10/2025**: [Thông báo Tổ chức hoạt động Workshop “Tâm bất biến giữa dòng đời vạn biến”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-tam-bat-bien-giua-dong-doi-van-bien/)
-
-• **24/10/2025**: [Thông báo tuyển sinh đại học ngành Công nghệ thông tin – hệ đào tạo từ xa năm 2025 đợt 2](https://hcmus.edu.vn/thong-bao-tuyen-sinh-dai-hoc-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-nam-2025-dot-2/)
 
 ## Exam Announcements
 
