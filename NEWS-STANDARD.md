@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-09 at 21:13 +07***
+*Last updated: **2025-11-09 at 22:14 +07***
 
 ---
 
@@ -10,15 +10,11 @@
 
 • **04/11/2025**: [Thông báo thay đổi phòng học tại cơ sở 2 các môn Kinh tế chính trị, Lịch sử Đảng – áp dụng từ 01/12/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-co-so-2-cac-mon-kinh-te-chinh-tri-lich-su-dang-ap-dung-tu-01-12-2025/)
 
-• **04/11/2025**: [Nữ sinh Khoa học Công nghệ Việt Nam – Võ Ngọc Minh Anh: Hành trình “trả lời bằng thành quả” và khát vọng AI “chạm” người dùng](https://hcmus.edu.vn/60560-2/)
-
 ## Cử nhân tài năng
 
 • **06/11/2025**: [[THÔNG BÁO] Chương trình học bổng Jensen Huang năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-jensen-huang-nam-2025/)
 
 • **04/11/2025**: [Thông báo thay đổi phòng học tại cơ sở 2 các môn Kinh tế chính trị, Lịch sử Đảng – áp dụng từ 01/12/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-co-so-2-cac-mon-kinh-te-chinh-tri-lich-su-dang-ap-dung-tu-01-12-2025/)
-
-• **04/11/2025**: [Nữ sinh Khoa học Công nghệ Việt Nam – Võ Ngọc Minh Anh: Hành trình “trả lời bằng thành quả” và khát vọng AI “chạm” người dùng](https://hcmus.edu.vn/60560-2/)
 
 ## Trí tuệ nhân tạo
 
@@ -32,13 +28,9 @@
 
 • **04/11/2025**: [Thông báo thay đổi phòng học tại cơ sở 2 các môn Kinh tế chính trị, Lịch sử Đảng – áp dụng từ 01/12/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-co-so-2-cac-mon-kinh-te-chinh-tri-lich-su-dang-ap-dung-tu-01-12-2025/)
 
-• **04/11/2025**: [Nữ sinh Khoa học Công nghệ Việt Nam – Võ Ngọc Minh Anh: Hành trình “trả lời bằng thành quả” và khát vọng AI “chạm” người dùng](https://hcmus.edu.vn/60560-2/)
-
 ## Chuỗi môn học
 
 • **04/11/2025**: [Thông báo thay đổi phòng học tại cơ sở 2 các môn Kinh tế chính trị, Lịch sử Đảng – áp dụng từ 01/12/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-co-so-2-cac-mon-kinh-te-chinh-tri-lich-su-dang-ap-dung-tu-01-12-2025/)
-
-• **04/11/2025**: [Nữ sinh Khoa học Công nghệ Việt Nam – Võ Ngọc Minh Anh: Hành trình “trả lời bằng thành quả” và khát vọng AI “chạm” người dùng](https://hcmus.edu.vn/60560-2/)
 
 ## Student Information
 
