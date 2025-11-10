@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-10 at 11:24 +07***
+*Last updated: **2025-11-10 at 12:18 +07***
 
 ---
 
@@ -13,6 +13,8 @@
 • **06/11/2025**: [[THÔNG BÁO] Chương trình học bổng Jensen Huang năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-jensen-huang-nam-2025/)
 
 ## Trí tuệ nhân tạo
+
+• **10/11/2025**: [📣 [Cuộc thi trực tuyến] VC-NLĐ TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM TÌM HIỂU LUẬT NHÀ GIÁO 2025](https://hcmus.edu.vn/%f0%9f%93%a3-cuoc-thi-truc-tuyen-vc-nld-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-tim-hieu-luat-nha-giao-2025/)
 
 • **09/11/2025**: [THÔNG BÁO Cuộc thi trực tuyến “Sinh viên Trường ĐH KHTN tìm hiểu pháp luật 2025”](https://hcmus.edu.vn/thong-bao-cuoc-thi-truc-tuyen-sinh-vien-truong-dh-khtn-tim-hieu-phap-luat-2/)
 
