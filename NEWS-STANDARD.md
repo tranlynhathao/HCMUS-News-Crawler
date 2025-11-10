@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-10 at 14:17 +07***
+*Last updated: **2025-11-10 at 15:24 +07***
 
 ---
 
@@ -13,6 +13,8 @@
 • **06/11/2025**: [[THÔNG BÁO] Chương trình học bổng Jensen Huang năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-jensen-huang-nam-2025/)
 
 ## Trí tuệ nhân tạo
+
+• **10/11/2025**: [Thông báo về việc tuyển dụng tại Phòng Quản trị thiết bị](https://hcmus.edu.vn/thong-bao-ve-viec-tuyen-dung-tai-phong-quan-tri-thiet-bi/)
 
 • **10/11/2025**: [Thông báo thu phí bảo hiểm y tế năm 2026 (đợt 1) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2025)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2026-dot-1-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2025/)
 
