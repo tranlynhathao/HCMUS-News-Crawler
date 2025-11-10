@@ -1,12 +1,12 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-10 at 18:14 +07***
+*Last updated: **2025-11-10 at 19:35 +07***
 
 ---
 
 ## Chất lượng cao (CLC)
 
-• **06/11/2025**: [[THÔNG BÁO] Chương trình học bổng Jensen Huang năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-jensen-huang-nam-2025/)
+*No news items found*
 
 ## Student Information
 

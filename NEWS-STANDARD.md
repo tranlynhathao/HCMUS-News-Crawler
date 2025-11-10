@@ -1,18 +1,20 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-10 at 18:14 +07***
+*Last updated: **2025-11-10 at 19:35 +07***
 
 ---
 
 ## Thông tin môn học
 
-• **06/11/2025**: [[THÔNG BÁO] Chương trình học bổng Jensen Huang năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-jensen-huang-nam-2025/)
+*No news items found*
 
 ## Cử nhân tài năng
 
-• **06/11/2025**: [[THÔNG BÁO] Chương trình học bổng Jensen Huang năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-jensen-huang-nam-2025/)
+*No news items found*
 
 ## Trí tuệ nhân tạo
+
+• **10/11/2025**: [Đảng bộ Trường Đại học Khoa học tự nhiên tổng kết 10 năm thực hiện Chỉ thị 05-CT/TW về đẩy mạnh học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh](https://hcmus.edu.vn/dang-bo-truong-dai-hoc-khoa-hoc-tu-nhien-tong-ket-10-nam-thuc-hien-chi-thi-05-ct-tw-ve-day-manh-hoc-tap-va-lam-theo-tu-tuong-dao-duc-phong-cach-ho-chi-minh/)
 
 • **10/11/2025**: [Thông báo về việc tuyển dụng tại Phòng Quản trị thiết bị](https://hcmus.edu.vn/thong-bao-ve-viec-tuyen-dung-tai-phong-quan-tri-thiet-bi/)
 
