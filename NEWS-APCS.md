@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-12 at 08:16 +07***
+*Last updated: **2025-11-12 at 09:56 +07***
 
 ---
 
@@ -30,6 +30,8 @@
 
 ### Academic Affairs
 
+• **12/11/2025**: [THÔNG BÁO ĐĂNG KÝ LỄ TỐT NGHIỆP KHOA CÔNG NGHỆ THÔNG TIN NĂM 2025](https://www.ctda.hcmus.edu.vn/vi/2025/11/thong-bao-dang-ky-le-tot-nghiep-khoa-cong-nghe-thong-tin-nam-2025/)
+
 • **29/10/2025**: [Khảo sát sử dụng công cụ AI trong học tập](https://www.ctda.hcmus.edu.vn/vi/2025/10/khao-sat-su-dung-cong-cu-ai-trong-hoc-tap/)
 
 • **29/10/2025**: [Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2022 bảo vệ T8/2026](https://www.ctda.hcmus.edu.vn/vi/2025/10/thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2022-bao-ve-t8-2026/)
@@ -47,8 +49,6 @@
 • **24/09/2025**: [[CTĐA] – DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2021-đợt 2 (bảo vệ 04/2026)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-dssv-chinh-thuc-thuc-hien-de-tai-tot-nghiep-khoa-2021-dot-2-bao-ve-04-2026/)
 
 • **21/09/2025**: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2025 – Chương trình Chất lượng cao](https://www.ctda.hcmus.edu.vn/vi/2025/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2025-chuong-trinh-chat-luong-cao/)
-
-• **19/09/2025**: [[CTĐA] – Thông báo phúc khảo HK3/2425](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-thong-bao-phuc-khao-hk3-2425/)
 
 ### Student Support
 
