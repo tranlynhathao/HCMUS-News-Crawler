@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-13 at 17:19 +07***
+*Last updated: **2025-11-13 at 18:15 +07***
 
 ---
 
@@ -13,6 +13,8 @@
 • **12/11/2025**: [Phòng học môn Vi tích phân 1A tại CS2](https://hcmus.edu.vn/phong-hoc-mon-vi-tich-phan-1a-tai-cs2/)
 
 ## Trí tuệ nhân tạo
+
+• **13/11/2025**: [Trao đổi mở giữa Trường đại học khoa học tự nhiên, ĐHQG-HCM và Công ty Qualcomm Việt Nam](https://hcmus.edu.vn/trao-doi-mo-giua-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-va-cong-ty-qualcomm-viet-nam/)
 
 • **13/11/2025**: [Thông báo điều chỉnh thời gian công bố danh sách tốt nghiệp đợt tháng 11 năm 2025 đối với sinh viên trình độ đại học hệ chính quy và hệ đào tạo từ xa](https://hcmus.edu.vn/thong-bao-dieu-chinh-thoi-gian-cong-bo-danh-sach-tot-nghiep-dot-thang-11-nam-2025-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-va-he-dao-tao-tu-xa/)
 
