@@ -1,18 +1,24 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-13 at 19:36 +07***
+*Last updated: **2025-11-13 at 20:30 +07***
 
 ---
 
 ## Thông tin môn học
 
+• **13/11/2025**: [Thông báonhận bằng tốt nghiệp bậc Đại học hệ Chính quy, bậc Cao đẳng ngành Công nghệ thông tin, hệ đào tạo từ xa và Liên thông đại học cho các đợt xét tốt nghiệp tháng 8, 9 và 10 năm2025)](https://hcmus.edu.vn/thong-baonhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-cac-dot-xet-tot-nghiep-thang-8-9-va-10-nam2025/)
+
 • **12/11/2025**: [Phòng học môn Vi tích phân 1A tại CS2](https://hcmus.edu.vn/phong-hoc-mon-vi-tich-phan-1a-tai-cs2/)
 
 ## Cử nhân tài năng
 
+• **13/11/2025**: [Thông báonhận bằng tốt nghiệp bậc Đại học hệ Chính quy, bậc Cao đẳng ngành Công nghệ thông tin, hệ đào tạo từ xa và Liên thông đại học cho các đợt xét tốt nghiệp tháng 8, 9 và 10 năm2025)](https://hcmus.edu.vn/thong-baonhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-cac-dot-xet-tot-nghiep-thang-8-9-va-10-nam2025/)
+
 • **12/11/2025**: [Phòng học môn Vi tích phân 1A tại CS2](https://hcmus.edu.vn/phong-hoc-mon-vi-tich-phan-1a-tai-cs2/)
 
 ## Trí tuệ nhân tạo
+
+• **13/11/2025**: [Thông báonhận bằng tốt nghiệp bậc Đại học hệ Chính quy, bậc Cao đẳng ngành Công nghệ thông tin, hệ đào tạo từ xa và Liên thông đại học cho các đợt xét tốt nghiệp tháng 8, 9 và 10 năm2025)](https://hcmus.edu.vn/thong-baonhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-cac-dot-xet-tot-nghiep-thang-8-9-va-10-nam2025/)
 
 • **13/11/2025**: [Trao đổi mở giữa Trường đại học khoa học tự nhiên, ĐHQG-HCM và Công ty Qualcomm Việt Nam](https://hcmus.edu.vn/trao-doi-mo-giua-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-va-cong-ty-qualcomm-viet-nam/)
 
@@ -28,13 +34,15 @@
 
 • **10/11/2025**: [Thông báo thu phí bảo hiểm y tế năm 2026 (đợt 1) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2025)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2026-dot-1-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2025/)
 
-• **10/11/2025**: [📣 [Cuộc thi trực tuyến] VC-NLĐ TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM TÌM HIỂU LUẬT NHÀ GIÁO 2025](https://hcmus.edu.vn/%f0%9f%93%a3-cuoc-thi-truc-tuyen-vc-nld-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-tim-hieu-luat-nha-giao-2025/)
-
 ## Chuỗi môn học
+
+• **13/11/2025**: [Thông báonhận bằng tốt nghiệp bậc Đại học hệ Chính quy, bậc Cao đẳng ngành Công nghệ thông tin, hệ đào tạo từ xa và Liên thông đại học cho các đợt xét tốt nghiệp tháng 8, 9 và 10 năm2025)](https://hcmus.edu.vn/thong-baonhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-cac-dot-xet-tot-nghiep-thang-8-9-va-10-nam2025/)
 
 • **12/11/2025**: [Phòng học môn Vi tích phân 1A tại CS2](https://hcmus.edu.vn/phong-hoc-mon-vi-tich-phan-1a-tai-cs2/)
 
 ## Student Information
+
+• **13/11/2025**: [Thông báonhận bằng tốt nghiệp bậc Đại học hệ Chính quy, bậc Cao đẳng ngành Công nghệ thông tin, hệ đào tạo từ xa và Liên thông đại học cho các đợt xét tốt nghiệp tháng 8, 9 và 10 năm2025)](https://hcmus.edu.vn/thong-baonhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-cac-dot-xet-tot-nghiep-thang-8-9-va-10-nam2025/)
 
 • **13/11/2025**: [Thông báo điều chỉnh thời gian công bố danh sách tốt nghiệp đợt tháng 11 năm 2025 đối với sinh viên trình độ đại học hệ chính quy và hệ đào tạo từ xa](https://hcmus.edu.vn/thong-bao-dieu-chinh-thoi-gian-cong-bo-danh-sach-tot-nghiep-dot-thang-11-nam-2025-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-va-he-dao-tao-tu-xa/)
 
@@ -53,8 +61,6 @@
 • **09/11/2025**: [THÔNG BÁO Cuộc thi trực tuyến “Sinh viên Trường ĐH KHTN tìm hiểu pháp luật 2025”](https://hcmus.edu.vn/thong-bao-cuoc-thi-truc-tuyen-sinh-vien-truong-dh-khtn-tim-hieu-phap-luat-2/)
 
 • **06/11/2025**: [[THÔNG BÁO] Chương trình học bổng Jensen Huang năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-jensen-huang-nam-2025/)
-
-• **05/11/2025**: [THÔNG BÁO THƯỜNG CÔNG BỐ QUỐC TẾ TẠI ĐHQG-HCM NĂM 2025](https://hcmus.edu.vn/thong-bao-thuong-cong-bo-quoc-te-tai-dhqg-hcm-nam-2025/)
 
 ## Exam Announcements
 
