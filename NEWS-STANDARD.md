@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-13 at 10:49 +07***
+*Last updated: **2025-11-13 at 11:22 +07***
 
 ---
 
@@ -26,13 +26,13 @@
 
 • **10/11/2025**: [📣 [Cuộc thi trực tuyến] VC-NLĐ TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM TÌM HIỂU LUẬT NHÀ GIÁO 2025](https://hcmus.edu.vn/%f0%9f%93%a3-cuoc-thi-truc-tuyen-vc-nld-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-tim-hieu-luat-nha-giao-2025/)
 
-• **09/11/2025**: [THÔNG BÁO Cuộc thi trực tuyến “Sinh viên Trường ĐH KHTN tìm hiểu pháp luật 2025”](https://hcmus.edu.vn/thong-bao-cuoc-thi-truc-tuyen-sinh-vien-truong-dh-khtn-tim-hieu-phap-luat-2/)
-
 ## Chuỗi môn học
 
 • **12/11/2025**: [Phòng học môn Vi tích phân 1A tại CS2](https://hcmus.edu.vn/phong-hoc-mon-vi-tich-phan-1a-tai-cs2/)
 
 ## Student Information
+
+• **13/11/2025**: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt Công dân – sinh viên đầu năm, năm học 2025 – 2026 (Chuyên đề A), ngày 08-09/11/2025](https://hcmus.edu.vn/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-dau-nam-nam-hoc-2025-2026-chuyen-de-a-ngay-08-09-11-2025/)
 
 • **13/11/2025**: [Thông báo cung cấp thông tin lưu trú năm học 2025-2026 (Dành cho sinh viên Khóa 2025)](https://hcmus.edu.vn/thong-bao-cung-cap-thong-tin-luu-tru-nam-hoc-2025-2026-danh-cho-sinh-vien-khoa-2025/)
 
@@ -51,8 +51,6 @@
 • **05/11/2025**: [THÔNG BÁO THƯỜNG CÔNG BỐ QUỐC TẾ TẠI ĐHQG-HCM NĂM 2025](https://hcmus.edu.vn/thong-bao-thuong-cong-bo-quoc-te-tai-dhqg-hcm-nam-2025/)
 
 • **04/11/2025**: [Thông báo thay đổi phòng học tại cơ sở 2 các môn Kinh tế chính trị, Lịch sử Đảng – áp dụng từ 01/12/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-co-so-2-cac-mon-kinh-te-chinh-tri-lich-su-dang-ap-dung-tu-01-12-2025/)
-
-• **04/11/2025**: [Thông báo kết quả đăng ký lịch Sinh hoạt công dân – sinh viên đầu năm, năm học 2025-2026 (Chuyên đề A)](https://hcmus.edu.vn/thong-bao-ket-qua-dang-ky-lich-sinh-hoat-cong-dan-sinh-vien-dau-nam-nam-hoc-2025-2026-chuyen-de-a/)
 
 ## Exam Announcements
 
