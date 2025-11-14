@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-14 at 18:14 +07***
+*Last updated: **2025-11-14 at 19:34 +07***
 
 ---
 
@@ -22,6 +22,8 @@
 
 ## Trí tuệ nhân tạo
 
+• **14/11/2025**: [Mời báo Mời báo giá cung cấp vật tư điện và nước sửa chữa cơ sở vật chất cho các hạng mục dùng chung tại hai cơ sở Nguyễn Văn Cừ và Đông Hòa](https://hcmus.edu.vn/moi-bao-moi-bao-gia-cung-cap-vat-tu-dien-va-nuoc-sua-chua-co-so-vat-chat-cho-cac-hang-muc-dung-chung-tai-hai-co-so-nguyen-van-cu-va-dong-hoa/)
+
 • **14/11/2025**: [Đội tuyển Trường Đại học Khoa học tự nhiên, ĐHQG-HCM vô địch ICPC Vietnam National Contest 2025](https://hcmus.edu.vn/doi-tuyen-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-vo-dich-icpc-vietnam-national-2025/)
 
 • **13/11/2025**: [Thông báo nhận bằng tốt nghiệp (các đợt xét tốt nghiệp tháng 8, 9 và 10 năm 2025)](https://hcmus.edu.vn/thong-baonhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-cac-dot-xet-tot-nghiep-thang-8-9-va-10-nam2025/)
@@ -31,10 +33,6 @@
 • **13/11/2025**: [Thông báo điều chỉnh thời gian công bố danh sách tốt nghiệp đợt tháng 11 năm 2025 đối với sinh viên trình độ đại học hệ chính quy và hệ đào tạo từ xa](https://hcmus.edu.vn/thong-bao-dieu-chinh-thoi-gian-cong-bo-danh-sach-tot-nghiep-dot-thang-11-nam-2025-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-va-he-dao-tao-tu-xa/)
 
 • **12/11/2025**: [Phòng học môn Vi tích phân 1A tại CS2](https://hcmus.edu.vn/phong-hoc-mon-vi-tich-phan-1a-tai-cs2/)
-
-• **12/11/2025**: [Thông báo tổ chức lễ trao bằng tốt nghiệp cho sinh viên bậc Đại học đợt 2 năm 2025](https://hcmus.edu.vn/thong-bao-to-chuc-le-trao-bang-tot-nghiep-cho-sinh-vien-bac-dai-hoc-dot-2-nam-2025/)
-
-• **10/11/2025**: [Đảng bộ Trường Đại học Khoa học tự nhiên tổng kết 10 năm thực hiện Chỉ thị 05-CT/TW về đẩy mạnh học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh](https://hcmus.edu.vn/dang-bo-truong-dai-hoc-khoa-hoc-tu-nhien-tong-ket-10-nam-thuc-hien-chi-thi-05-ct-tw-ve-day-manh-hoc-tap-va-lam-theo-tu-tuong-dao-duc-phong-cach-ho-chi-minh/)
 
 ## Chuỗi môn học
 
