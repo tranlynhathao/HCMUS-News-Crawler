@@ -1,10 +1,12 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-14 at 14:16 +07***
+*Last updated: **2025-11-14 at 15:22 +07***
 
 ---
 
 ## Chất lượng cao (CLC)
+
+• **14/11/2025**: [Đội tuyển Trường Đại học Khoa học tự nhiên, ĐHQG-HCM vô địch ICPC Vietnam National 2025](https://hcmus.edu.vn/doi-tuyen-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-vo-dich-icpc-vietnam-national-2025/)
 
 • **14/11/2025**: [[THÔNG BÁO] Chương trình học bổng “GX Human Resources Development for Energy Sector” – Cơ quan Hợp tác Quốc tế Nhật Bản (JICA)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-gx-human-resources-development-for-energy-sector-co-quan-hop-tac-quoc-te-nhat-ban-jica/)
 

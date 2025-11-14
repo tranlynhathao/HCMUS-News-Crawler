@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-14 at 14:16 +07***
+*Last updated: **2025-11-14 at 15:22 +07***
 
 ---
 
@@ -22,6 +22,8 @@
 
 ## Trí tuệ nhân tạo
 
+• **14/11/2025**: [Đội tuyển Trường Đại học Khoa học tự nhiên, ĐHQG-HCM vô địch ICPC Vietnam National 2025](https://hcmus.edu.vn/doi-tuyen-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-vo-dich-icpc-vietnam-national-2025/)
+
 • **13/11/2025**: [Thông báo nhận bằng tốt nghiệp (các đợt xét tốt nghiệp tháng 8, 9 và 10 năm 2025)](https://hcmus.edu.vn/thong-baonhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-cac-dot-xet-tot-nghiep-thang-8-9-va-10-nam2025/)
 
 • **13/11/2025**: [Trường Đại học Khoa học tự nhiên, ĐHQG-HCM trao đổi về xu hướng công nghệ với Qualcomm Việt Nam](https://hcmus.edu.vn/trao-doi-mo-giua-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-va-cong-ty-qualcomm-viet-nam/)
@@ -33,8 +35,6 @@
 • **12/11/2025**: [Thông báo tổ chức lễ trao bằng tốt nghiệp cho sinh viên bậc Đại học đợt 2 năm 2025](https://hcmus.edu.vn/thong-bao-to-chuc-le-trao-bang-tot-nghiep-cho-sinh-vien-bac-dai-hoc-dot-2-nam-2025/)
 
 • **10/11/2025**: [Đảng bộ Trường Đại học Khoa học tự nhiên tổng kết 10 năm thực hiện Chỉ thị 05-CT/TW về đẩy mạnh học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh](https://hcmus.edu.vn/dang-bo-truong-dai-hoc-khoa-hoc-tu-nhien-tong-ket-10-nam-thuc-hien-chi-thi-05-ct-tw-ve-day-manh-hoc-tap-va-lam-theo-tu-tuong-dao-duc-phong-cach-ho-chi-minh/)
-
-• **10/11/2025**: [Thông báo về việc tuyển dụng tại Phòng Quản trị thiết bị](https://hcmus.edu.vn/thong-bao-ve-viec-tuyen-dung-tai-phong-quan-tri-thiet-bi/)
 
 ## Chuỗi môn học
 
