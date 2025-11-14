@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-14 at 15:22 +07***
+*Last updated: **2025-11-14 at 16:18 +07***
 
 ---
 
@@ -22,7 +22,7 @@
 
 ## Trí tuệ nhân tạo
 
-• **14/11/2025**: [Đội tuyển Trường Đại học Khoa học tự nhiên, ĐHQG-HCM vô địch ICPC Vietnam National 2025](https://hcmus.edu.vn/doi-tuyen-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-vo-dich-icpc-vietnam-national-2025/)
+• **14/11/2025**: [Đội tuyển Trường Đại học Khoa học tự nhiên, ĐHQG-HCM vô địch ICPC Vietnam National Contest 2025](https://hcmus.edu.vn/doi-tuyen-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-vo-dich-icpc-vietnam-national-2025/)
 
 • **13/11/2025**: [Thông báo nhận bằng tốt nghiệp (các đợt xét tốt nghiệp tháng 8, 9 và 10 năm 2025)](https://hcmus.edu.vn/thong-baonhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-cac-dot-xet-tot-nghiep-thang-8-9-va-10-nam2025/)
 
