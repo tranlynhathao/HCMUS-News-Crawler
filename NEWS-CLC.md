@@ -1,10 +1,12 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-14 at 10:11 +07***
+*Last updated: **2025-11-14 at 10:45 +07***
 
 ---
 
 ## Chất lượng cao (CLC)
+
+• **14/11/2025**: [[THÔNG BÁO] Chương trình học bổng “GX Human Resources Development for Energy Sector” – Cơ quan Hợp tác Quốc tế Nhật Bản (JICA)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-gx-human-resources-development-for-energy-sector-co-quan-hop-tac-quoc-te-nhat-ban-jica/)
 
 • **13/11/2025**: [Thông báo nhận bằng tốt nghiệp (các đợt xét tốt nghiệp tháng 8, 9 và 10 năm 2025)](https://hcmus.edu.vn/thong-baonhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-cac-dot-xet-tot-nghiep-thang-8-9-va-10-nam2025/)
 

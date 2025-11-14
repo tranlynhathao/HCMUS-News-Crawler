@@ -1,16 +1,20 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-14 at 10:11 +07***
+*Last updated: **2025-11-14 at 10:45 +07***
 
 ---
 
 ## Thông tin môn học
+
+• **14/11/2025**: [[THÔNG BÁO] Chương trình học bổng “GX Human Resources Development for Energy Sector” – Cơ quan Hợp tác Quốc tế Nhật Bản (JICA)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-gx-human-resources-development-for-energy-sector-co-quan-hop-tac-quoc-te-nhat-ban-jica/)
 
 • **13/11/2025**: [Thông báo nhận bằng tốt nghiệp (các đợt xét tốt nghiệp tháng 8, 9 và 10 năm 2025)](https://hcmus.edu.vn/thong-baonhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-cac-dot-xet-tot-nghiep-thang-8-9-va-10-nam2025/)
 
 • **12/11/2025**: [Phòng học môn Vi tích phân 1A tại CS2](https://hcmus.edu.vn/phong-hoc-mon-vi-tich-phan-1a-tai-cs2/)
 
 ## Cử nhân tài năng
+
+• **14/11/2025**: [[THÔNG BÁO] Chương trình học bổng “GX Human Resources Development for Energy Sector” – Cơ quan Hợp tác Quốc tế Nhật Bản (JICA)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-gx-human-resources-development-for-energy-sector-co-quan-hop-tac-quoc-te-nhat-ban-jica/)
 
 • **13/11/2025**: [Thông báo nhận bằng tốt nghiệp (các đợt xét tốt nghiệp tháng 8, 9 và 10 năm 2025)](https://hcmus.edu.vn/thong-baonhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-cac-dot-xet-tot-nghiep-thang-8-9-va-10-nam2025/)
 
@@ -31,8 +35,6 @@
 • **10/11/2025**: [Đảng bộ Trường Đại học Khoa học tự nhiên tổng kết 10 năm thực hiện Chỉ thị 05-CT/TW về đẩy mạnh học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh](https://hcmus.edu.vn/dang-bo-truong-dai-hoc-khoa-hoc-tu-nhien-tong-ket-10-nam-thuc-hien-chi-thi-05-ct-tw-ve-day-manh-hoc-tap-va-lam-theo-tu-tuong-dao-duc-phong-cach-ho-chi-minh/)
 
 • **10/11/2025**: [Thông báo về việc tuyển dụng tại Phòng Quản trị thiết bị](https://hcmus.edu.vn/thong-bao-ve-viec-tuyen-dung-tai-phong-quan-tri-thiet-bi/)
-
-• **10/11/2025**: [Thông báo thu phí bảo hiểm y tế năm 2026 (đợt 1) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2025)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2026-dot-1-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2025/)
 
 ## Chuỗi môn học
 
