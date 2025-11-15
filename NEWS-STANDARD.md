@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-15 at 14:14 +07***
+*Last updated: **2025-11-15 at 15:19 +07***
 
 ---
 
@@ -10,17 +10,15 @@
 
 • **13/11/2025**: [Thông báo nhận bằng tốt nghiệp (các đợt xét tốt nghiệp tháng 8, 9 và 10 năm 2025)](https://hcmus.edu.vn/thong-baonhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-cac-dot-xet-tot-nghiep-thang-8-9-va-10-nam2025/)
 
-• **12/11/2025**: [Phòng học môn Vi tích phân 1A tại CS2](https://hcmus.edu.vn/phong-hoc-mon-vi-tich-phan-1a-tai-cs2/)
-
 ## Cử nhân tài năng
 
 • **14/11/2025**: [[THÔNG BÁO] Chương trình học bổng “GX Human Resources Development for Energy Sector” – Cơ quan Hợp tác Quốc tế Nhật Bản (JICA)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-gx-human-resources-development-for-energy-sector-co-quan-hop-tac-quoc-te-nhat-ban-jica/)
 
 • **13/11/2025**: [Thông báo nhận bằng tốt nghiệp (các đợt xét tốt nghiệp tháng 8, 9 và 10 năm 2025)](https://hcmus.edu.vn/thong-baonhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-cac-dot-xet-tot-nghiep-thang-8-9-va-10-nam2025/)
 
-• **12/11/2025**: [Phòng học môn Vi tích phân 1A tại CS2](https://hcmus.edu.vn/phong-hoc-mon-vi-tich-phan-1a-tai-cs2/)
-
 ## Trí tuệ nhân tạo
+
+• **15/11/2025**: [CÔNG BỐ KẾT QUẢ CUỘC THI “VIÊN CHỨC, NGƯỜI LAO ĐỘNG TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN TÌM HIỂU LUẬT NHÀ GIÁO 2025”](https://hcmus.edu.vn/cong-bo-ket-qua-cuoc-thi-vien-chuc-nguoi-lao-dong-truong-dai-hoc-khoa-hoc-tu-nhien-tim-hieu-luat-nha-giao-2025/)
 
 • **14/11/2025**: [Mời báo Mời báo giá cung cấp vật tư điện và nước sửa chữa cơ sở vật chất cho các hạng mục dùng chung tại hai cơ sở Nguyễn Văn Cừ và Đông Hòa](https://hcmus.edu.vn/moi-bao-moi-bao-gia-cung-cap-vat-tu-dien-va-nuoc-sua-chua-co-so-vat-chat-cho-cac-hang-muc-dung-chung-tai-hai-co-so-nguyen-van-cu-va-dong-hoa/)
 
@@ -32,13 +30,9 @@
 
 • **13/11/2025**: [Thông báo điều chỉnh thời gian công bố danh sách tốt nghiệp đợt tháng 11 năm 2025 đối với sinh viên trình độ đại học hệ chính quy và hệ đào tạo từ xa](https://hcmus.edu.vn/thong-bao-dieu-chinh-thoi-gian-cong-bo-danh-sach-tot-nghiep-dot-thang-11-nam-2025-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-va-he-dao-tao-tu-xa/)
 
-• **12/11/2025**: [Phòng học môn Vi tích phân 1A tại CS2](https://hcmus.edu.vn/phong-hoc-mon-vi-tich-phan-1a-tai-cs2/)
-
 ## Chuỗi môn học
 
 • **13/11/2025**: [Thông báo nhận bằng tốt nghiệp (các đợt xét tốt nghiệp tháng 8, 9 và 10 năm 2025)](https://hcmus.edu.vn/thong-baonhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-cac-dot-xet-tot-nghiep-thang-8-9-va-10-nam2025/)
-
-• **12/11/2025**: [Phòng học môn Vi tích phân 1A tại CS2](https://hcmus.edu.vn/phong-hoc-mon-vi-tich-phan-1a-tai-cs2/)
 
 ## Student Information
 
