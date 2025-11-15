@@ -1,6 +1,6 @@
 # 🎓 HCMUS News Update
 
-*Last updated: **2025-11-15 at 15:19 +07***
+*Last updated: **2025-11-15 at 16:15 +07***
 
 ---
 
@@ -17,6 +17,8 @@
 • **13/11/2025**: [Thông báo nhận bằng tốt nghiệp (các đợt xét tốt nghiệp tháng 8, 9 và 10 năm 2025)](https://hcmus.edu.vn/thong-baonhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-cac-dot-xet-tot-nghiep-thang-8-9-va-10-nam2025/)
 
 ## Trí tuệ nhân tạo
+
+• **15/11/2025**: [Hành trình 20 năm ngành Hải dương học, Bộ môn Hải dương, Khí tượng và Thủy văn](https://hcmus.edu.vn/hanh-trinh-20-nam-nganh-hai-duong-hoc-bo-mon-hai-duong-khi-tuong-va-thuy-van/)
 
 • **15/11/2025**: [CÔNG BỐ KẾT QUẢ CUỘC THI “VIÊN CHỨC, NGƯỜI LAO ĐỘNG TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN TÌM HIỂU LUẬT NHÀ GIÁO 2025”](https://hcmus.edu.vn/cong-bo-ket-qua-cuoc-thi-vien-chuc-nguoi-lao-dong-truong-dai-hoc-khoa-hoc-tu-nhien-tim-hieu-luat-nha-giao-2025/)
 
